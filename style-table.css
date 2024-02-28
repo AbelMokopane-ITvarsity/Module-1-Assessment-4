@@ -1,7 +1,7 @@
 h1{
     color: black;
     font-size: 30px;
-    font-family: Helvetica, serif;
+    font-family: roboto, sans-serif;
     text-align: center;
     text-decoration: underline;
     text-decoration-color: #B18904;
@@ -18,7 +18,7 @@ h1{
 }
 
 table{
-    font-family: Helvetica,sans-serif;
+    font-family: roboto, sans-serif;
     border-collapse: collapse;
     border-width: 2px;
     border-style: double;
@@ -37,6 +37,6 @@ th{
 p{
     text-align: center;
     text-rendering: geometricPrecision;
-    font-family: serif;
+    font-family: cursive;
     font-size: 20px;
 }
